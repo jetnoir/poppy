@@ -1,21 +1,104 @@
-MIT License
+Poppy — V5 Dynamic Instrumentation Pipeline
+Copyright (C) 2026 Stuart Thomas. All rights reserved.
 
-Copyright (c) 2026 Stuart
+════════════════════════════════════════════════════════════════
+PART 1: DUAL-LICENCE GRANT
+════════════════════════════════════════════════════════════════
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This software is available under a dual-licence model:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+OPTION A — Non-Commercial Licence (MIT-style)
+  You may use, copy, modify, and distribute this software for 
+  non-commercial purposes only, subject to the terms of the 
+  MIT-style licence set out in Part 4 of this document.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+  "Non-commercial purposes" means use for personal research, 
+  education, and individual hobbyist projects where no fee is 
+  charged and no commercial advantage is sought.
+
+OPTION B — Commercial Licence
+  If you wish to use this software in a professional, corporate, 
+  or commercial context — or for any purpose that generates 
+  revenue — you must obtain a separate commercial licence.
+
+  Commercial licensing contact: stuart.thomas@mac.com
+
+════════════════════════════════════════════════════════════════
+PART 2: COMMERCIAL LICENCE
+════════════════════════════════════════════════════════════════
+
+A commercial licence grants you the right to use Poppy in a 
+commercial environment, subject to payment of the applicable 
+licence fees and acceptance of the commercial licence agreement.
+
+To enquire about commercial licensing and current fees, contact:
+  Stuart Thomas <stuart.thomas@mac.com>
+  Web: https://stuart-thomas.com
+
+════════════════════════════════════════════════════════════════
+PART 3: ENGLISH LAW PROVISIONS
+════════════════════════════════════════════════════════════════
+
+Copyright
+  Copyright (C) 2026 Stuart Thomas. All rights reserved.
+  Stuart Thomas of Whitby, North Yorkshire, England is the sole 
+  author and copyright owner of this work.
+
+Moral Rights
+  In accordance with sections 77 and 80 of the Copyright, 
+  Designs and Patents Act 1988 (CDPA), Stuart Thomas asserts 
+  his right to be identified as the author of this work and 
+  his right to object to derogatory treatment of the work.
+
+Database Rights
+  To the extent that the event schemas, trace formats, and 
+  analysis logic embodied in this software constitute a 
+  database, Stuart Thomas asserts all database rights afforded 
+  under the Copyright and Rights in Databases Regulations 1997.
+
+Governing Law
+  This licence and any dispute arising from it shall be 
+  governed by the laws of England and Wales. The parties 
+  irrevocably submit to the exclusive jurisdiction of the 
+  courts of England and Wales.
+
+════════════════════════════════════════════════════════════════
+PART 4: NON-COMMERCIAL LICENCE TERMS (MIT-STYLE)
+════════════════════════════════════════════════════════════════
+
+Permission is hereby granted, free of charge, to any person 
+obtaining a copy of this software and associated documentation 
+files (the "Software"), to deal in the Software without 
+restriction for NON-COMMERCIAL PURPOSES ONLY, including 
+without limitation the rights to use, copy, modify, merge, 
+publish, distribute, sublicense, and/or sell copies of the 
+Software, subject to the following conditions:
+
+1. The above copyright notice and this permission notice shall 
+   be included in all copies or substantial portions of the 
+   Software.
+
+2. Any commercial use, including use within a commercial 
+   entity or for revenue-generating activities, is strictly 
+   prohibited without a separate commercial licence.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY 
+KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE 
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR 
+PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR 
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR 
+OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE 
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+════════════════════════════════════════════════════════════════
+DECLARATION OF SOLE AUTHORSHIP
+════════════════════════════════════════════════════════════════
+
+I, Stuart Thomas of Whitby, North Yorkshire, England, declare 
+that I am the sole author of all original source code in this 
+repository. This work was created independently and is not 
+subject to any third-party claims or employment-related 
+intellectual property assignments.
+
+Date: May 2026
