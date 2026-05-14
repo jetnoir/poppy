@@ -1,0 +1,5 @@
+frida-tools>=17.0.0
+PySide6>=6.0.0
+pyobjc-core
+pyobjc-framework-Cocoa
+capstone

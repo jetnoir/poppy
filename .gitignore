@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# OS-specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project-specific
+runs/*
+!runs/.gitkeep
+poppy_full_context.txt
+agregate_context.py
+inject/xpc_malform
+*.jsonl
+*.manifest.json
+*.dtrace.jsonl
+*.inject.stdout
+*.inject.jsonl
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
